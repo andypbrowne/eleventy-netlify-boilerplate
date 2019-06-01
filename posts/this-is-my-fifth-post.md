@@ -7,3 +7,5 @@ tags:
   - test
 ---
 This is the text of the fifth post
+
+![a simplified lighting bolt](/static/img/logo.svg "lighting icon")
