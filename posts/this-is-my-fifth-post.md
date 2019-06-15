@@ -8,4 +8,4 @@ tags:
 ---
 This is the text of the fifth post
 
-![a simplified lighting bolt](/static/img/logo.svg "lighting icon")
+![a white unicorn with a blue benie hat](/static/img/blue-beanie-unicorn.png)
