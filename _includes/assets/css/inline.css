@@ -19,7 +19,9 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	/* background-color: var(--turkey); */
+	background-color: var(--blue);
+	color: var(--white);
 }
 
 main {
